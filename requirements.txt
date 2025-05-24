@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_migrate
+flask_jwt_extended
+python-dotenv
+passlib
+email-validator
+psycopg2-binary
